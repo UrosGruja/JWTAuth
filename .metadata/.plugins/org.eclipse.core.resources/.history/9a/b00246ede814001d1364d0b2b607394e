@@ -1,0 +1,6 @@
+package com.example.demo.security;
+
+@Service
+public class JWTUtil {
+	
+}

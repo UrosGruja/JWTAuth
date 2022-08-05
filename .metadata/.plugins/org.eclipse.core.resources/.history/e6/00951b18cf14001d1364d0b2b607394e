@@ -1,0 +1,5 @@
+package com.example.demo.cecurity;
+
+public abstract class JWTUtil {
+
+}
