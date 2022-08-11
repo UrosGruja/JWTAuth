@@ -18,9 +18,9 @@ public class User implements Serializable {
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private int idUser;
-
+	//add validation
 	private String name;
-
+	//add validation
 	private String password;
 
 	public User() {
